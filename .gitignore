@@ -1,0 +1,33 @@
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+secrets.json
+
+# Reveal later
+Luv_To_Meme_Litepaper.pdf
+
+/contracts
+hardhat.config.js
+package-lock.json
+package.json
+
+/ignition
+/scripts
+/non_test
+/test
+/test_abi
