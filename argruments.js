@@ -14,6 +14,6 @@ module.exports = [
         website: 'luvbomb.meme',
         telegram: 'https://t.me/luvbombmeme',
         twitter: 'https://x.com/luvbombmeme',
-        discord: '-'
+        discord: '-' 
     }
 ]
